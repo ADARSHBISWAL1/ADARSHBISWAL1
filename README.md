@@ -175,6 +175,11 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ADARSHBISWAL1&style=for-the-badge&color=00ff88)
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart.png" width="20"> GitHub Status
+
+![Total Contributions](https://img.shields.io/badge/Contributions-103-00ff88?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-103-0066ff?style=for-the-badge&logo=git&logoColor=white)
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="20"> Let's Collaborate!
 
 I'm always open to discussing new ideas, opportunities, and collaborations. Feel free to reach out if you'd like to work on exciting projects together!
