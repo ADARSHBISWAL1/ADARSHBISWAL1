@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
 # Hi there, I'm Adarsh Biswal! <img src="https://media.giphy.com/media/hvRJCLJz6awVlIkJ7Z/giphy.gif" width="30px">
@@ -88,6 +86,16 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Snake Animation
+
+<div align="center">
+  
+![Snake Animation](https://raw.githubusercontent.com/ADARSHBISWAL1/ADARSHBISWAL1/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Activity Graph
 
 <div align="center">
@@ -119,10 +127,10 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
   
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="20"> Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshbiswal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-biswal-6113062a1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshbiswal@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADARSHBISWAL1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ADARSHBISWAL1.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://adarshbiswal1.github.io/My-portfolio/)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="20"> Profile Views
 
@@ -153,4 +161,3 @@ I'm always open to discussing new ideas, opportunities, and collaborations. Feel
 ![Bottom](https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0066ff&height=100&section=footer)
 
 </div>
-
