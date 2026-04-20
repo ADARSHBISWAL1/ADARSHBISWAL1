@@ -86,6 +86,16 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Snake Animation
+
+<div align="center">
+  
+![Snake Animation](https://raw.githubusercontent.com/ADARSHBISWAL1/ADARSHBISWAL1/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Activity Graph
 
 <div align="center">
