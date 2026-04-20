@@ -106,16 +106,55 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/2Iud9H00P2OTY/giphy.gif" width="30"> Achievements
+## <img src="https://media.giphy.com/media/2Iud9H00P2OTY/giphy.gif" width="30"> Achievements & Awards
 
 <div align="center">
-  
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30"> GitHub Trophies
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ADARSHBISWAL1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="25"> Competition Achievements
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="15"> **Top 16** in National Voice-to-Action Hackathon
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Medal.png" width="15"> **1st Rank** in College Hospital Management Hackathon
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Certificate.png" width="15"> Multiple **Coding Competition** participations
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Medal.png" width="30"> Competition Achievements
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="40"><br>
+      <strong>National Hackathon</strong><br>
+      <img src="https://img.shields.io/badge/Top%2016-FFD700?style=for-the-badge&logo=hack-the-box&logoColor=white"><br>
+      <em>Voice-to-Action AI Project</em>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Medal.png" width="40"><br>
+      <strong>College Hackathon</strong><br>
+      <img src="https://img.shields.io/badge/1st%20Rank-FF6B6B?style=for-the-badge&logo=award&logoColor=white"><br>
+      <em>Hospital Management System</em>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Certificate.png" width="40"><br>
+      <strong>Multiple Coding Competitions</strong><br>
+      <img src="https://img.shields.io/badge/Active%20Participant-4ECDC4?style=for-the-badge&logo=codeforces&logoColor=white"><br>
+      <em>Problem Solving & Algorithm Challenges</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" width="30"> Key Skills & Expertise
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Expert-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Web%20Development-Advanced-FF9800?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Problem%20Solving-Strong-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/Team%20Leadership-Proven-9C27B0?style=for-the-badge&logo=people&logoColor=white">
+
+</div>
 
 </div>
 
