@@ -76,11 +76,11 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADARSHBISWAL1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=C9D1D9&cache_seconds=300)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADARSHBISWAL1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADARSHBISWAL1&theme=radical&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&cache_seconds=300)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADARSHBISWAL1&theme=radical&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSHBISWAL1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9&cache_seconds=300)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSHBISWAL1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9)
 
 </div>
 
@@ -174,11 +174,6 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="20"> Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ADARSHBISWAL1&style=for-the-badge&color=00ff88)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart.png" width="20"> GitHub Status
-
-![Total Contributions](https://img.shields.io/badge/Contributions-103-00ff88?style=for-the-badge&logo=github&logoColor=white)
-![Commits](https://img.shields.io/badge/Commits-103-0066ff?style=for-the-badge&logo=git&logoColor=white)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="20"> Let's Collaborate!
 
