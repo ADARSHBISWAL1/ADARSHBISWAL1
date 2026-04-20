@@ -76,11 +76,11 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADARSHBISWAL1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=C9D1D9&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADARSHBISWAL1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=C9D1D9&cache_seconds=300)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADARSHBISWAL1&theme=radical&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADARSHBISWAL1&theme=radical&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&cache_seconds=300)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSHBISWAL1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSHBISWAL1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9&cache_seconds=300)
 
 </div>
 
