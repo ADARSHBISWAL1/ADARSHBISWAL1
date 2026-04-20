@@ -78,22 +78,21 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshbiswal&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADARSHBISWAL1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshbiswal&theme=radical&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADARSHBISWAL1&theme=radical&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshbiswal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSHBISWAL1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Activity # Hi there, I'm Adarsh Biswal! <img src="https://media.giphy.com/media/hvRJCLJz6awVlIkJ7Z/giphy.gif" width="30px">
-Graph
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Activity Graph
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adarshbiswal&theme=radical&hide_border=true&bg_color=0D1117&color=00ff88&line=00ff88&point=ffdd54)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ADARSHBISWAL1&theme=radical&hide_border=true&bg_color=0D1117&color=00ff88&line=00ff88&point=ffdd54)
 
 </div>
 
@@ -103,7 +102,7 @@ Graph
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adarshbiswal&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ADARSHBISWAL1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="25"> Competition Achievements
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="15"> **Top 16** in National Voice-to-Action Hackathon
@@ -122,12 +121,12 @@ Graph
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshbiswal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshbiswal@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshbiswal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://adarshbiswal.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADARSHBISWAL1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ADARSHBISWAL1.github.io)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="20"> Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=adarshbiswal&style=for-the-badge&color=00ff88)
+![Profile Views](https://komarev.com/ghpvc/?username=ADARSHBISWAL1&style=for-the-badge&color=00ff88)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="20"> Let's Collaborate!
 
@@ -155,17 +154,3 @@ I'm always open to discussing new ideas, opportunities, and collaborations. Feel
 
 </div>
 
-<!--
-**ADARSHBISWAL1/ADARSHBISWAL1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
