@@ -28,7 +28,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBC607g/200w.webp" width="30"> Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="400" alt="Tech Stack Animation">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Tech Stack Animation">
 </div>
 
 <div align="center">
