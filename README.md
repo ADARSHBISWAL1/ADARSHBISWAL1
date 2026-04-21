@@ -90,7 +90,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 <div align="center">
   
-![Snake Animation](https://raw.githubusercontent.com/ADARSHBISWAL1/ADARSHBISWAL1/main/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://adarshbiswal1.github.io/ADARSHBISWAL1/github-contribution-grid-snake.svg)
 
 </div>
 
