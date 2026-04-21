@@ -10,37 +10,47 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM7u9g/giphy.gif" width="50"> About Me
 
+<div align="center">
+  <img src="https://media.giphy.com/media/k0JjA0y5p3jO0/giphy.gif" width="300" alt="Coding Animation">
+</div>
+
 I'm a passionate **B.Tech Computer Science student** specializing in **Artificial Intelligence and Machine Learning**. I love building innovative solutions and exploring cutting-edge technologies.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20"> Currently learning **Deep Learning** and **Advanced ML Algorithms**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="20"> Exploring **Computer Vision** and **NLP**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" width="20"> 2024 Goals: **Contribute to Open Source** & **Build AI Products**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" width="20"> Fun fact: **I solve problems by breaking them into smaller pieces!**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"> Currently learning **Deep Learning** and **Advanced ML Algorithms**<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25"> Exploring **Computer Vision** and **NLP**<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" width="25"> 2024 Goals: **Contribute to Open Source** & **Build AI Products**<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" width="25"> Fun fact: **I solve problems by breaking them into smaller pieces!**
+</div>
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBC607g/200w.webp" width="30"> Tech Stack
 
 <div align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="400" alt="Tech Stack Animation">
+</div>
+
+<div align="center">
   
-### Programming Languages
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Code.png" width="25"> Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### AI/ML
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25"> AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Web Development
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe.png" width="25"> Web Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Platforms
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Tools.png" width="25"> Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -51,6 +61,10 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Projects
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqKD5ChQClRHSy/giphy.gif" width="350" alt="Projects Animation">
+</div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" width="25"> Voice-to-Action
 **AI-based Voice Command System** | *Top 16 in National Hackathon*
@@ -75,6 +89,10 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 ## <img src="https://media.giphy.com/media/jnPVh3FgI3bIBDv2r3/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9SBOyfC/giphy.gif" width="300" alt="Stats Animation">
+</div>
+
+<div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADARSHBISWAL1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=C9D1D9)
 
@@ -87,6 +105,10 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 ---
 
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Activity Graph
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="350" alt="Activity Animation">
+</div>
 
 <div align="center">
   
