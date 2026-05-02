@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Adarsh Biswal! <img src="https://media.giphy.com/media/hvRJCLJz6awVlIkJ7Z/giphy.gif" width="30px">
+# Hi there, I'm Adarsh Biswal! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/26tn33aiTi1jkl6H6V/giphy.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff88&center=true&vCenter=true&width=435&lines=B.Tech+Computer+Science+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
 
@@ -12,10 +12,10 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM7u9g/giphy.gif" width="50"> About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="50"> About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3JEdcSyH1hsc2WPi/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/ln7z2eWriiQAllfVcn/giphy.gif" width="300" alt="Coding Animation">
 </div>
 
 I'm a passionate **B.Tech Computer Science student** specializing in **Artificial Intelligence and Machine Learning**. I love building innovative solutions and exploring cutting-edge technologies.
@@ -29,10 +29,10 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBC607g/200w.webp" width="30"> Tech Stack
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3oKIPEqKD5ChQClRHSy/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Tech Stack Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="250" alt="Tech Stack Animation">
 </div>
 
 <div align="center">
@@ -64,10 +64,10 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"> Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqKD5ChQClRHSy/giphy.gif" width="350" alt="Projects Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="350" alt="Projects Animation">
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" width="25"> Voice-to-Action
@@ -90,10 +90,10 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/jnPVh3FgI3bIBDv2r3/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3oKIPEqKD5ChQClRHSy/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9SBOyfC/giphy.gif" width="300" alt="Stats Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/ln7z2eWriiQAllfVcn/giphy.gif" width="300" alt="Stats Animation">
 </div>
 
 <div align="center">
@@ -108,10 +108,10 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Activity Graph
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="30"> Activity Graph
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="350" alt="Activity Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3oEjI6SIIHBdRxXI40/giphy.gif" width="350" alt="Activity Animation">
 </div>
 
 <div align="center">
@@ -122,7 +122,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="30"> Profile Analytics
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3oKIPEqKD5ChQClRHSy/giphy.gif" width="30"> Profile Analytics
 
 <div align="center">
 
@@ -140,7 +140,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Skills Progress
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="30"> Skills Progress
 
 <div align="center">
 
@@ -169,7 +169,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPEqKD5ChQClRHSy/giphy.gif" width="30"> Recent Activity
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"> Recent Activity
 
 <div align="center">
 
@@ -190,7 +190,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="30"> Productivity Metrics
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Productivity Metrics
 
 <div align="center">
 
@@ -214,7 +214,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"> Social Engagement
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3oKIPEqKD5ChQClRHSy/giphy.gif" width="30"> Social Engagement
 
 <div align="center">
 
@@ -231,7 +231,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6V/giphy.gif" width="30"> Daily Motivation
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="30"> Daily Motivation
 
 <div align="center">
 
@@ -250,7 +250,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/2Iud9H00P2OTY/giphy.gif" width="30"> Achievements & Awards
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"> Achievements & Awards
 
 <div align="center">
 
@@ -304,7 +304,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYK/giphy.gif" width="30"> Let's Connect!
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="30"> Let's Connect!
 
 <div align="center">
   
@@ -333,7 +333,7 @@ I'm always open to discussing new ideas, opportunities, and collaborations. Feel
 
 *"The only way to do great work is to love what you do."* - Steve Jobs
 
-![Thanks](https://media.giphy.com/media/v1.YEBldRjleOG1DZjF2d2V5aGV0b3FjY3ZqZm9vZ2N0bjJ1bWc2ZHZqZ3VqY2Z6c3NkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6V/giphy.gif)
+![Thanks](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjYmZjZGQ0ZjFkNmY0ZmYzZmY0ZjY5ZmY0Zg/3o7aD3sa2Vq8lGfFrm/giphy.gif)
 
 </div>
 
