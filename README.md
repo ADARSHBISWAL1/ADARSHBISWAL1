@@ -6,7 +6,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Moon.png" width="20"> Theme Status
 ![Dark Mode](https://img.shields.io/badge/🌙-Dark%20Mode-000000?style=for-the-badge&logoColor=white)
-[![Switch Theme](https://img.shields.io/badge/🔄-Switch%20Theme-007ACC?style=for-the-badge)](javascript:toggleTheme())
+![Theme Ready](https://img.shields.io/badge/✅-Theme%20Ready-00ff88?style=for-the-badge)
 
 </div>
 
@@ -122,7 +122,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6V/giphy.gif" width="30"> Profile Analytics
+## <img src="https://media.giphy.com/media/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="30"> Profile Analytics
 
 <div align="center">
 
@@ -140,7 +140,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="30"> Skills Progress
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Skills Progress
 
 <div align="center">
 
@@ -169,7 +169,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"> Recent Activity
+## <img src="https://media.giphy.com/media/3oKIPEqKD5ChQClRHSy/giphy.gif" width="30"> Recent Activity
 
 <div align="center">
 
@@ -190,7 +190,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPEqKD5ChQClRHSy/giphy.gif" width="30"> Productivity Metrics
+## <img src="https://media.giphy.com/media/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="30"> Productivity Metrics
 
 <div align="center">
 
@@ -214,7 +214,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6V/giphy.gif" width="30"> Social Engagement
+## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"> Social Engagement
 
 <div align="center">
 
@@ -231,7 +231,7 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7aD3sa2Vq8lGfFrm/giphy.gif" width="30"> Daily Motivation
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6V/giphy.gif" width="30"> Daily Motivation
 
 <div align="center">
 
