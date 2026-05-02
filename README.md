@@ -11,7 +11,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM7u9g/giphy.gif" width="50"> About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/k0JjA0y5p3jO0/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/du3JEdcSyH1hsc2WPi/giphy.gif" width="300" alt="Coding Animation">
 </div>
 
 I'm a passionate **B.Tech Computer Science student** specializing in **Artificial Intelligence and Machine Learning**. I love building innovative solutions and exploring cutting-edge technologies.
@@ -201,7 +201,7 @@ I'm always open to discussing new ideas, opportunities, and collaborations. Feel
 
 *"The only way to do great work is to love what you do."* - Steve Jobs
 
-![Thanks](https://media.giphy.com/media/3o7TKDt1I9egB8B3z2/giphy.gif)
+![Thanks](https://media.giphy.com/media/v1.YEBldRjleOG1DZjF2d2V5aGV0b3FjY3ZqZm9vZ2N0bjJ1bWc2ZHZqZ3VqY2Z6c3NkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6V/giphy.gif)
 
 </div>
 
