@@ -198,10 +198,10 @@ I'm a passionate **B.Tech Computer Science student** specializing in **Artificia
 
 | Metric | Value | Status |
 |--------|-------|--------|
-| **Total Commits** | 1,234 | 🟢 Active |
-| **Pull Requests** | 156 | 🟢 Healthy |
-| **Code Reviews** | 89 | 🟢 Engaged |
-| **Issues Resolved** | 67 | 🟢 Productive |
+| **Total Commits** | 103 | 🟢 Active |
+| **Pull Requests** | 12 | 🟢 Healthy |
+| **Code Reviews** | 8 | 🟢 Engaged |
+| **Issues Resolved** | 5 | 🟢 Productive |
 | **Contributions** | 103 | 🟢 Consistent |
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="25"> Achievements Unlocked
